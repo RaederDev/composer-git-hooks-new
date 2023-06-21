@@ -1,5 +1,7 @@
 # composer-git-hooks
 
+This is a fork to provide a stable 3.0.0 release as the original Author has not released one for about a year causing issues with stable Symfony 6 projects.
+
 [![Software License][badge-license]](LICENSE)
 [![Travis][badge-travis]][link-travis]
 [![Packagist][badge-packagist]][link-packagist]
